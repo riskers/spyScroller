@@ -12,3 +12,7 @@
         }
     })
 ```
+
+# API
+>  spyElements : 检测滚动的元素 id    
+   triggerHeight : 进入屏幕响应的距离
